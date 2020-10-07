@@ -1,4 +1,10 @@
-@import url(//db.onlinewebfonts.com/c/0b51833ff62e4af8acb5fd3e2bf59e97?family=SF+Pro+Display);
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 button {
   cursor: pointer;
   border: none;
@@ -10,6 +16,18 @@ button:active, button:focus, button:hover {
   outline: none;
   -webkit-filter: brightness(110%);
           filter: brightness(110%);
+}
+
+@font-face {
+  font-family: "SF Pro Display Bold";
+  src: url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.eot");
+  src: url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.woff") format("woff"), url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.svg#SF Pro Display") format("svg");
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.eot");
+  src: url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.woff") format("woff"), url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.svg#SF Pro Display") format("svg");
 }
 
 body {
@@ -31,8 +49,7 @@ main h1.fof {
   margin-top: 180px;
   line-height: 81px;
   font-size: 92px;
-  font-family: "SF Pro Display";
-  font-weight: 800;
+  font-family: "SF Pro Display Bold";
   margin-bottom: 0;
   color: white;
 }
@@ -40,7 +57,7 @@ main h1.fof {
 main h2 {
   margin-top: 28px;
   font-family: "SF Pro Display";
-  font-weight: 500;
+  opacity: .88;
   font-size: 24px;
 }
 
@@ -55,5 +72,31 @@ main .CTA {
 
 main .round {
   border-radius: 50%;
+}
+
+@media (max-width: 1024px) {
+  body {
+    background-size: 100%;
+    background-position: center 30vh;
+  }
+  main {
+    width: 100%;
+    padding: 20px;
+  }
+  main h1.fof {
+    margin-top: 50px;
+    font-size: 72px;
+    line-height: 65px;
+  }
+  main h2 {
+    margin-top: 36px;
+    font-size: 20px;
+  }
+  main .CTA {
+    height: 75px;
+    width: 75px;
+    font-size: 38px;
+    float: right;
+  }
 }
 /*# sourceMappingURL=main.css.map */
