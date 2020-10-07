@@ -1,0 +1,62 @@
+$colors: (
+    primary: #290C2D,
+    accent: #FFB23A,
+);
+@function color ($color-name) {
+    @return map-get($colors, $color-name)
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    transition: all .2s ease;
+    &:active, &:focus, &:hover {
+        outline: none;
+        filter: brightness(110%)
+    }
+}
+
+$fp: 'SF Pro Display';
+$pLsize: 24px;
+
+// @import url(//db.onlinewebfonts.com/c/0b51833ff62e4af8acb5fd3e2bf59e97?family=SF+Pro+Display);
+
+body {
+    min-height: 100%;
+    color: white;
+    background-color: color(primary);
+    background-image: url("/img/illustrations/Graphic504.svg");
+    background-size: 50vw;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+main {
+    margin: 0 auto;
+    width: 1200px;
+    h1.fof {
+        margin-top: 180px;
+        line-height: 81px;
+        font-size: 92px;
+        font-family: $fp;
+        font-weight: 800;
+        margin-bottom: 0;
+        color:  white;
+    }
+    p {
+        margin-top: 28px;
+        font-family: $fp;
+        font-weight: 500;
+        font-size: $pLsize;
+    } 
+    .CTA {
+        margin-top: 40px;
+        height: 100px;
+        width: 100px;
+        font-size: 50px;
+        color: color(primary);
+        background-color: color(accent);
+    }
+    .round {
+        border-radius: 50%;
+    }
+}
