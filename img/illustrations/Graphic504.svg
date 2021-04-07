@@ -1,233 +1,369 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1046" height="1080" viewBox="0 0 1046 1080">
-  <defs>
-    <clipPath id="clip-path">
-      <rect width="24" height="18" fill="none"/>
-    </clipPath>
-    <clipPath id="clip-path-2">
-      <rect width="508" height="363" fill="none"/>
-    </clipPath>
-    <clipPath id="clip-path-4">
-      <rect width="202" height="111" fill="none"/>
-    </clipPath>
-    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#290c2d"/>
-      <stop offset="1" stop-color="#290c2d" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <g id="Raggruppa_8" data-name="Raggruppa 8" transform="translate(-877)">
-    <g id="Raggruppa_7" data-name="Raggruppa 7">
-      <g id="Componente_1_1" data-name="Componente 1 – 1" transform="translate(1247 449)">
-        <g id="Griglia_di_ripetizione_1" data-name="Griglia di ripetizione 1" clip-path="url(#clip-path)">
-          <g transform="translate(-1260 -454)">
-            <rect id="Rettangolo_21" data-name="Rettangolo 21" width="24" height="2" rx="1" transform="translate(1260 454)" fill="#fff"/>
-          </g>
-          <g transform="translate(-1260 -446)">
-            <rect id="Rettangolo_21-2" data-name="Rettangolo 21" width="24" height="2" rx="1" transform="translate(1260 454)" fill="#fff"/>
-          </g>
-          <g transform="translate(-1260 -438)">
-            <rect id="Rettangolo_21-3" data-name="Rettangolo 21" width="24" height="2" rx="1" transform="translate(1260 454)" fill="#fff"/>
-          </g>
-        </g>
-      </g>
-      <g id="pc">
-        <g id="Rettangolo_26" data-name="Rettangolo 26" transform="translate(1348 260)" fill="#290c2d" stroke="#cecece" stroke-width="1" opacity="0.53">
-          <rect width="572" height="432" rx="36" stroke="none"/>
-          <rect x="0.5" y="0.5" width="571" height="431" rx="35.5" fill="none"/>
-        </g>
-        <g id="Card_Desktop" data-name="Card Desktop" transform="translate(1412 329)" opacity="0.53" clip-path="url(#clip-path-2)">
-          <g id="Card_Desktop-2" data-name="Card Desktop" transform="translate(-1484 -338)">
-            <rect id="Card" width="285" height="111" rx="13" transform="translate(1484 338)" fill="#fff" opacity="0.19"/>
-            <g id="Image" transform="translate(1484 338)">
-              <path id="Image-2" data-name="Image" d="M14,0H133a0,0,0,0,1,0,0V111a0,0,0,0,1,0,0H14A14,14,0,0,1,0,97V14A14,14,0,0,1,14,0Z" fill="#fff" opacity="0.19"/>
-              <g id="Icon_feather-image" data-name="Icon feather-image" transform="translate(52.943 42)">
-                <path id="Tracciato_1" data-name="Tracciato 1" d="M7.5,4.5h21a3,3,0,0,1,3,3v21a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3V7.5a3,3,0,0,1,3-3Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_2" data-name="Tracciato 2" d="M15,12.75a2.25,2.25,0,1,1-2.25-2.25A2.25,2.25,0,0,1,15,12.75Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_3" data-name="Tracciato 3" d="M31.5,22.5,24,15,7.5,31.5" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              </g>
-            </g>
-            <rect id="Text" width="56" height="9" rx="4.5" transform="translate(1636 374)" fill="#fff" opacity="0.32"/>
-            <rect id="Title" width="106" height="9" rx="4.5" transform="translate(1636 358)" fill="#ffc41a"/>
-          </g>
-          <g id="Card_Desktop-3" data-name="Card Desktop" transform="translate(-1179 -338)">
-            <rect id="Card-2" data-name="Card" width="285" height="111" rx="13" transform="translate(1484 338)" fill="#fff" opacity="0.19"/>
-            <g id="Image-3" data-name="Image" transform="translate(1484 338)">
-              <path id="Image-4" data-name="Image" d="M14,0H133a0,0,0,0,1,0,0V111a0,0,0,0,1,0,0H14A14,14,0,0,1,0,97V14A14,14,0,0,1,14,0Z" fill="#fff" opacity="0.19"/>
-              <g id="Icon_feather-image-2" data-name="Icon feather-image" transform="translate(52.943 42)">
-                <path id="Tracciato_1-2" data-name="Tracciato 1" d="M7.5,4.5h21a3,3,0,0,1,3,3v21a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3V7.5a3,3,0,0,1,3-3Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_2-2" data-name="Tracciato 2" d="M15,12.75a2.25,2.25,0,1,1-2.25-2.25A2.25,2.25,0,0,1,15,12.75Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_3-2" data-name="Tracciato 3" d="M31.5,22.5,24,15,7.5,31.5" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              </g>
-            </g>
-            <rect id="Text-2" data-name="Text" width="56" height="9" rx="4.5" transform="translate(1636 374)" fill="#fff" opacity="0.32"/>
-            <rect id="Title-2" data-name="Title" width="106" height="9" rx="4.5" transform="translate(1636 358)" fill="#ffc41a"/>
-          </g>
-          <g id="Card_Desktop-4" data-name="Card Desktop" transform="translate(-1484 -207)">
-            <rect id="Card-3" data-name="Card" width="285" height="111" rx="13" transform="translate(1484 338)" fill="#fff" opacity="0.19"/>
-            <g id="Image-5" data-name="Image" transform="translate(1484 338)">
-              <path id="Image-6" data-name="Image" d="M14,0H133a0,0,0,0,1,0,0V111a0,0,0,0,1,0,0H14A14,14,0,0,1,0,97V14A14,14,0,0,1,14,0Z" fill="#fff" opacity="0.19"/>
-              <g id="Icon_feather-image-3" data-name="Icon feather-image" transform="translate(52.943 42)">
-                <path id="Tracciato_1-3" data-name="Tracciato 1" d="M7.5,4.5h21a3,3,0,0,1,3,3v21a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3V7.5a3,3,0,0,1,3-3Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_2-3" data-name="Tracciato 2" d="M15,12.75a2.25,2.25,0,1,1-2.25-2.25A2.25,2.25,0,0,1,15,12.75Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_3-3" data-name="Tracciato 3" d="M31.5,22.5,24,15,7.5,31.5" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              </g>
-            </g>
-            <rect id="Text-3" data-name="Text" width="56" height="9" rx="4.5" transform="translate(1636 374)" fill="#fff" opacity="0.32"/>
-            <rect id="Title-3" data-name="Title" width="106" height="9" rx="4.5" transform="translate(1636 358)" fill="#ffc41a"/>
-          </g>
-          <g id="Card_Desktop-5" data-name="Card Desktop" transform="translate(-1179 -207)">
-            <rect id="Card-4" data-name="Card" width="285" height="111" rx="13" transform="translate(1484 338)" fill="#fff" opacity="0.19"/>
-            <g id="Image-7" data-name="Image" transform="translate(1484 338)">
-              <path id="Image-8" data-name="Image" d="M14,0H133a0,0,0,0,1,0,0V111a0,0,0,0,1,0,0H14A14,14,0,0,1,0,97V14A14,14,0,0,1,14,0Z" fill="#fff" opacity="0.19"/>
-              <g id="Icon_feather-image-4" data-name="Icon feather-image" transform="translate(52.943 42)">
-                <path id="Tracciato_1-4" data-name="Tracciato 1" d="M7.5,4.5h21a3,3,0,0,1,3,3v21a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3V7.5a3,3,0,0,1,3-3Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_2-4" data-name="Tracciato 2" d="M15,12.75a2.25,2.25,0,1,1-2.25-2.25A2.25,2.25,0,0,1,15,12.75Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_3-4" data-name="Tracciato 3" d="M31.5,22.5,24,15,7.5,31.5" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              </g>
-            </g>
-            <rect id="Text-4" data-name="Text" width="56" height="9" rx="4.5" transform="translate(1636 374)" fill="#fff" opacity="0.32"/>
-            <rect id="Title-4" data-name="Title" width="106" height="9" rx="4.5" transform="translate(1636 358)" fill="#ffc41a"/>
-          </g>
-          <g id="Card_Desktop-6" data-name="Card Desktop" transform="translate(-1484 -76)">
-            <rect id="Card-5" data-name="Card" width="285" height="111" rx="13" transform="translate(1484 338)" fill="#fff" opacity="0.19"/>
-            <g id="Image-9" data-name="Image" transform="translate(1484 338)">
-              <path id="Image-10" data-name="Image" d="M14,0H133a0,0,0,0,1,0,0V111a0,0,0,0,1,0,0H14A14,14,0,0,1,0,97V14A14,14,0,0,1,14,0Z" fill="#fff" opacity="0.19"/>
-              <g id="Icon_feather-image-5" data-name="Icon feather-image" transform="translate(52.943 42)">
-                <path id="Tracciato_1-5" data-name="Tracciato 1" d="M7.5,4.5h21a3,3,0,0,1,3,3v21a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3V7.5a3,3,0,0,1,3-3Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_2-5" data-name="Tracciato 2" d="M15,12.75a2.25,2.25,0,1,1-2.25-2.25A2.25,2.25,0,0,1,15,12.75Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_3-5" data-name="Tracciato 3" d="M31.5,22.5,24,15,7.5,31.5" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              </g>
-            </g>
-            <rect id="Text-5" data-name="Text" width="56" height="9" rx="4.5" transform="translate(1636 374)" fill="#fff" opacity="0.32"/>
-            <rect id="Title-5" data-name="Title" width="106" height="9" rx="4.5" transform="translate(1636 358)" fill="#ffc41a"/>
-          </g>
-          <g id="Card_Desktop-7" data-name="Card Desktop" transform="translate(-1179 -76)">
-            <rect id="Card-6" data-name="Card" width="285" height="111" rx="13" transform="translate(1484 338)" fill="#fff" opacity="0.19"/>
-            <g id="Image-11" data-name="Image" transform="translate(1484 338)">
-              <path id="Image-12" data-name="Image" d="M14,0H133a0,0,0,0,1,0,0V111a0,0,0,0,1,0,0H14A14,14,0,0,1,0,97V14A14,14,0,0,1,14,0Z" fill="#fff" opacity="0.19"/>
-              <g id="Icon_feather-image-6" data-name="Icon feather-image" transform="translate(52.943 42)">
-                <path id="Tracciato_1-6" data-name="Tracciato 1" d="M7.5,4.5h21a3,3,0,0,1,3,3v21a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3V7.5a3,3,0,0,1,3-3Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_2-6" data-name="Tracciato 2" d="M15,12.75a2.25,2.25,0,1,1-2.25-2.25A2.25,2.25,0,0,1,15,12.75Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-                <path id="Tracciato_3-6" data-name="Tracciato 3" d="M31.5,22.5,24,15,7.5,31.5" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              </g>
-            </g>
-            <rect id="Text-6" data-name="Text" width="56" height="9" rx="4.5" transform="translate(1636 374)" fill="#fff" opacity="0.32"/>
-            <rect id="Title-6" data-name="Title" width="106" height="9" rx="4.5" transform="translate(1636 358)" fill="#ffc41a"/>
-          </g>
-        </g>
-        <g id="Componente_1_2" data-name="Componente 1 – 2" transform="translate(1375 283)">
-          <g id="Griglia_di_ripetizione_1-2" data-name="Griglia di ripetizione 1" clip-path="url(#clip-path)">
-            <g transform="translate(-1260 -454)">
-              <rect id="Rettangolo_21-4" data-name="Rettangolo 21" width="24" height="2" rx="1" transform="translate(1260 454)" fill="#fff"/>
-            </g>
-            <g transform="translate(-1260 -446)">
-              <rect id="Rettangolo_21-5" data-name="Rettangolo 21" width="24" height="2" rx="1" transform="translate(1260 454)" fill="#fff"/>
-            </g>
-            <g transform="translate(-1260 -438)">
-              <rect id="Rettangolo_21-6" data-name="Rettangolo 21" width="24" height="2" rx="1" transform="translate(1260 454)" fill="#fff"/>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g id="wireframe">
-        <g id="Raggruppa_3" data-name="Raggruppa 3" transform="translate(-233.482 -113.5)" opacity="0.27">
-          <g id="Rettangolo_22" data-name="Rettangolo 22" transform="translate(1247.482 490.5)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="20 11">
-            <rect width="163" height="200" rx="13" stroke="none"/>
-            <rect x="1" y="1" width="161" height="198" rx="12" fill="none"/>
-          </g>
-          <g id="Rettangolo_23" data-name="Rettangolo 23" transform="translate(1247.482 490.5)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="20 11">
-            <path d="M9,0H154a9,9,0,0,1,9,9V120a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V9A9,9,0,0,1,9,0Z" stroke="none"/>
-            <path d="M9,1H154a8,8,0,0,1,8,8V118a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V9A8,8,0,0,1,9,1Z" fill="none"/>
-          </g>
-          <g id="Icon_feather-image-7" data-name="Icon feather-image" transform="translate(1304.609 526.036)">
-            <path id="Tracciato_1-7" data-name="Tracciato 1" d="M9.905,4.5H47.743a5.405,5.405,0,0,1,5.405,5.405V47.743a5.405,5.405,0,0,1-5.405,5.405H9.905A5.405,5.405,0,0,1,4.5,47.743V9.905A5.405,5.405,0,0,1,9.905,4.5Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="20 11"/>
-            <path id="Tracciato_2-7" data-name="Tracciato 2" d="M18.608,14.554A4.054,4.054,0,1,1,14.554,10.5,4.054,4.054,0,0,1,18.608,14.554Z" transform="translate(0.311 0.311)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="20 11"/>
-            <path id="Tracciato_3-7" data-name="Tracciato 3" d="M50.743,28.514,37.23,15,7.5,44.73" transform="translate(-2.095 3.919)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="20 11"/>
-          </g>
-          <g id="Rettangolo_24" data-name="Rettangolo 24" transform="translate(1257.482 621.5)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="20 11">
-            <rect width="128" height="16" rx="5" stroke="none"/>
-            <rect x="1" y="1" width="126" height="14" rx="4" fill="none"/>
-          </g>
-          <g id="Rettangolo_25" data-name="Rettangolo 25" transform="translate(1257.482 650.5)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="20 11">
-            <rect width="96" height="16" rx="5" stroke="none"/>
-            <rect x="1" y="1" width="94" height="14" rx="4" fill="none"/>
-          </g>
-        </g>
-        <path id="Tracciato_4" data-name="Tracciato 4" d="M1173.666,381.246l160.832,111.5" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
-        <path id="Tracciato_6" data-name="Tracciato 6" d="M807.6,632.552l526.9-139.807" transform="translate(361 -57)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
-        <path id="Tracciato_7" data-name="Tracciato 7" d="M936.022,539.562,1334.5,492.745" transform="translate(88 -162)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
-        <path id="Tracciato_5" data-name="Tracciato 5" d="M1168.26,382.012l229.692,23.636" transform="translate(-147 194)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
-      </g>
-      <g id="phone">
-        <g id="Rettangolo_20" data-name="Rettangolo 20" transform="translate(1225 426)" fill="#290c2d" stroke="#cecece" stroke-width="1">
-          <rect width="246" height="460" rx="36" stroke="none"/>
-          <rect x="0.5" y="0.5" width="245" height="459" rx="35.5" fill="none"/>
-        </g>
-        <g id="post_card" data-name="post card" transform="translate(1247 752)" clip-path="url(#clip-path-4)">
-          <g id="post_card-2" data-name="post card" transform="translate(-1247 -752)">
-            <rect id="Rettangolo_22-2" data-name="Rettangolo 22" width="91" height="111" rx="13" transform="translate(1247 752)" fill="#502f55"/>
-            <path id="Rettangolo_23-2" data-name="Rettangolo 23" d="M13,0H78A13,13,0,0,1,91,13V67a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V13A13,13,0,0,1,13,0Z" transform="translate(1247 752)" fill="#fff" opacity="0.19"/>
-            <g id="image_ico" data-name="image ico" transform="translate(1274.473 767.5)">
-              <path id="Tracciato_1-8" data-name="Tracciato 1" d="M7.5,4.5h21a3,3,0,0,1,3,3v21a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3V7.5a3,3,0,0,1,3-3Z" fill="none" stroke="#290c2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              <path id="Tracciato_2-8" data-name="Tracciato 2" d="M15,12.75a2.25,2.25,0,1,1-2.25-2.25A2.25,2.25,0,0,1,15,12.75Z" fill="none" stroke="#290c2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              <path id="Tracciato_3-8" data-name="Tracciato 3" d="M31.5,22.5,24,15,7.5,31.5" fill="none" stroke="#290c2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-            </g>
-            <rect id="Rettangolo_24-2" data-name="Rettangolo 24" width="71" height="9" rx="4.5" transform="translate(1253 825)" fill="#ffb23a"/>
-            <rect id="Rettangolo_25-2" data-name="Rettangolo 25" width="53" height="9" rx="4.5" transform="translate(1253 841)" fill="#fff" opacity="0.32"/>
-          </g>
-          <g id="post_card-3" data-name="post card" transform="translate(-1136 -752)">
-            <rect id="Rettangolo_22-3" data-name="Rettangolo 22" width="91" height="111" rx="13" transform="translate(1247 752)" fill="#502f55"/>
-            <path id="Rettangolo_23-3" data-name="Rettangolo 23" d="M13,0H78A13,13,0,0,1,91,13V67a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V13A13,13,0,0,1,13,0Z" transform="translate(1247 752)" fill="#fff" opacity="0.19"/>
-            <g id="image_ico-2" data-name="image ico" transform="translate(1274.473 767.5)">
-              <path id="Tracciato_1-9" data-name="Tracciato 1" d="M7.5,4.5h21a3,3,0,0,1,3,3v21a3,3,0,0,1-3,3H7.5a3,3,0,0,1-3-3V7.5a3,3,0,0,1,3-3Z" fill="none" stroke="#290c2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              <path id="Tracciato_2-9" data-name="Tracciato 2" d="M15,12.75a2.25,2.25,0,1,1-2.25-2.25A2.25,2.25,0,0,1,15,12.75Z" fill="none" stroke="#290c2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-              <path id="Tracciato_3-9" data-name="Tracciato 3" d="M31.5,22.5,24,15,7.5,31.5" fill="none" stroke="#290c2d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-            </g>
-            <rect id="Rettangolo_24-3" data-name="Rettangolo 24" width="71" height="9" rx="4.5" transform="translate(1253 825)" fill="#ffb23a"/>
-            <rect id="Rettangolo_25-3" data-name="Rettangolo 25" width="53" height="9" rx="4.5" transform="translate(1253 841)" fill="#fff" opacity="0.32"/>
-          </g>
-        </g>
-        <text id="vnt." transform="translate(1449 468)" fill="#ffb23a" font-size="26" font-family="SFProDisplay-Heavy, SF Pro Display" font-weight="800"><tspan x="-47.519" y="0">vnt.</tspan></text>
-        <g id="hero">
-          <path id="Tracciato_8" data-name="Tracciato 8" d="M13,0H189a13,13,0,0,1,13,13V225a13,13,0,0,1-13,13H13A13,13,0,0,1,0,225V13A13,13,0,0,1,13,0Z" transform="translate(1247 492)" fill="#f8c4ff" opacity="0.19"/>
-          <rect id="Rettangolo_55" data-name="Rettangolo 55" width="148" height="9" rx="4.5" transform="translate(1266 620)" fill="#89798c"/>
-          <rect id="Rettangolo_60" data-name="Rettangolo 60" width="148" height="9" rx="4.5" transform="translate(1266 594)" fill="#beb0c0"/>
-          <rect id="Rettangolo_56" data-name="Rettangolo 56" width="97" height="9" rx="4.5" transform="translate(1266 638)" fill="#89798c"/>
-          <rect id="Rettangolo_59" data-name="Rettangolo 59" width="71" height="18" rx="9" transform="translate(1266 686)" fill="#ffb23a"/>
-        </g>
-      </g>
-      <g id="floating_code" data-name="floating code">
-        <g id="floating_code-2" data-name="floating code" transform="translate(-55 88)">
-          <rect id="Rettangolo_28" data-name="Rettangolo 28" width="57" height="11" rx="5.5" transform="translate(932 607)" fill="#ffb23a" opacity="0.25"/>
-          <rect id="Rettangolo_32" data-name="Rettangolo 32" width="57" height="10" rx="5" transform="translate(935 667)" fill="#ffb23a" opacity="0.25"/>
-          <rect id="Rettangolo_29" data-name="Rettangolo 29" width="149" height="11" rx="5.5" transform="translate(949 622)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_33" data-name="Rettangolo 33" width="126" height="11" rx="5.5" transform="translate(952 681)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_30" data-name="Rettangolo 30" width="84" height="11" rx="5.5" transform="translate(949 637)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_34" data-name="Rettangolo 34" width="58" height="11" rx="5.5" transform="translate(952 696)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_31" data-name="Rettangolo 31" width="54" height="11" rx="5.5" transform="translate(935 652)" fill="#ffb23a" opacity="0.25"/>
-          <rect id="Rettangolo_35" data-name="Rettangolo 35" width="54" height="11" rx="5.5" transform="translate(938 711)" fill="#ffb23a" opacity="0.25"/>
-        </g>
-        <g id="Raggruppa_5" data-name="Raggruppa 5" transform="translate(699 228)">
-          <rect id="Rettangolo_28-2" data-name="Rettangolo 28" width="57" height="11" rx="5.5" transform="translate(932 607)" fill="#ffb23a" opacity="0.25"/>
-          <rect id="Rettangolo_32-2" data-name="Rettangolo 32" width="57" height="10" rx="5" transform="translate(935 667)" fill="#ffb23a" opacity="0.25"/>
-          <rect id="Rettangolo_36" data-name="Rettangolo 36" width="57" height="10" rx="5" transform="translate(951 711)" fill="#ffb23a" opacity="0.25"/>
-          <rect id="Rettangolo_29-2" data-name="Rettangolo 29" width="149" height="11" rx="5.5" transform="translate(949 622)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_33-2" data-name="Rettangolo 33" width="126" height="11" rx="5.5" transform="translate(952 681)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_37" data-name="Rettangolo 37" width="126" height="11" rx="5.5" transform="translate(968 725)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_30-2" data-name="Rettangolo 30" width="84" height="11" rx="5.5" transform="translate(949 637)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_34-2" data-name="Rettangolo 34" width="58" height="11" rx="5.5" transform="translate(952 696)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_38" data-name="Rettangolo 38" width="58" height="11" rx="5.5" transform="translate(968 740)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_31-2" data-name="Rettangolo 31" width="54" height="11" rx="5.5" transform="translate(935 652)" fill="#ffb23a" opacity="0.25"/>
-          <rect id="Rettangolo_35-2" data-name="Rettangolo 35" width="54" height="11" rx="5.5" transform="translate(937 770)" fill="#ffb23a" opacity="0.25"/>
-          <rect id="Rettangolo_39" data-name="Rettangolo 39" width="54" height="11" rx="5.5" transform="translate(954 755)" fill="#ffb23a" opacity="0.25"/>
-        </g>
-        <g id="Raggruppa_6" data-name="Raggruppa 6" transform="translate(406 -570)">
-          <rect id="Rettangolo_28-3" data-name="Rettangolo 28" width="40" height="11" rx="5.5" transform="translate(932 607)" fill="#ffb23a" opacity="0.25"/>
-          <rect id="Rettangolo_29-3" data-name="Rettangolo 29" width="118" height="11" rx="5.5" transform="translate(949 622)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_30-3" data-name="Rettangolo 30" width="146" height="11" rx="5.5" transform="translate(949 637)" fill="#fff" opacity="0.14"/>
-          <rect id="Rettangolo_31-3" data-name="Rettangolo 31" width="38" height="11" rx="5.5" transform="translate(935 652)" fill="#ffb23a" opacity="0.25"/>
-        </g>
-      </g>
-    </g>
-    <rect id="fade" width="720" height="1080" transform="translate(1203)" fill="url(#linear-gradient)"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1046 1080" style="enable-background:new 0 0 1046 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{opacity:0.53;}
+	.st3{fill:#290C2D;}
+	.st4{fill:none;stroke:#CECECE;}
+	.st5{opacity:0.53;clip-path:url(#SVGID_4_);}
+	.st6{opacity:0.19;fill:#FFFFFF;enable-background:new    ;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st8{opacity:0.32;fill:#FFFFFF;enable-background:new    ;}
+	.st9{fill:#FFC41A;}
+	.st10{clip-path:url(#SVGID_6_);}
+	.st11{opacity:0.27;}
+	.st12{fill:none;}
+	.st13{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-dasharray:20,11;}
+	.st14{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:20,11;}
+	.st15{fill:none;stroke:#707070;stroke-dasharray:3;}
+	.st16{clip-path:url(#SVGID_8_);}
+	.st17{fill:#502F55;}
+	.st18{fill:none;stroke:#290C2D;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st19{fill:#FFB23A;}
+	.st20{enable-background:new    ;}
+	.st21{opacity:0.19;fill:#F8C4FF;enable-background:new    ;}
+	.st22{fill:#89798C;}
+	.st23{fill:#BEB0C0;}
+	.st24{opacity:0.25;fill:#FFB23A;enable-background:new    ;}
+	.st25{opacity:0.14;fill:#FFFFFF;enable-background:new    ;}
+	.st26{fill:url(#fade_1_);}
+</style>
+<g id="Raggruppa_8" transform="translate(-877)">
+	<g id="Raggruppa_7">
+		<g id="Componente_1_1" transform="translate(1247 449)">
+			<g>
+				<defs>
+					<rect id="SVGID_1_" width="24" height="18"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g id="Griglia_di_ripetizione_1" class="st0">
+					<g transform="translate(-1260 -454)">
+						<path id="Rettangolo_21" class="st1" d="M1261,454h22c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-22c-0.6,0-1-0.4-1-1l0,0
+							C1260,454.4,1260.4,454,1261,454z"/>
+					</g>
+					<g transform="translate(-1260 -446)">
+						<path id="Rettangolo_21-2" class="st1" d="M1261,454h22c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-22c-0.6,0-1-0.4-1-1l0,0
+							C1260,454.4,1260.4,454,1261,454z"/>
+					</g>
+					<g transform="translate(-1260 -438)">
+						<path id="Rettangolo_21-3" class="st1" d="M1261,454h22c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-22c-0.6,0-1-0.4-1-1l0,0
+							C1260,454.4,1260.4,454,1261,454z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="pc">
+			<g id="Rettangolo_26" transform="translate(1348 260)" class="st2">
+				<path class="st3" d="M36,0h500c19.9,0,36,16.1,36,36v360c0,19.9-16.1,36-36,36H36c-19.9,0-36-16.1-36-36V36C0,16.1,16.1,0,36,0z
+					"/>
+				<path class="st4" d="M36,0.5h500c19.6,0,35.5,15.9,35.5,35.5v360c0,19.6-15.9,35.5-35.5,35.5H36c-19.6,0-35.5-15.9-35.5-35.5V36
+					C0.5,16.4,16.4,0.5,36,0.5z"/>
+			</g>
+			<g>
+				<defs>
+					<rect id="SVGID_3_" x="1412" y="329" width="508" height="363"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+				</clipPath>
+				<g id="Card_Desktop" transform="translate(1412 329)" class="st5">
+					<g id="Card_Desktop-2" transform="translate(-1484 -338)">
+						<path id="Card" class="st6" d="M1497,338h259c7.2,0,13,5.8,13,13v85c0,7.2-5.8,13-13,13h-259c-7.2,0-13-5.8-13-13v-85
+							C1484,343.8,1489.8,338,1497,338z"/>
+						<g id="Image" transform="translate(1484 338)">
+							<path id="Image-2" class="st6" d="M14,0h119l0,0v111l0,0H14c-7.7,0-14-6.3-14-14V14C0,6.3,6.3,0,14,0z"/>
+							<g id="Icon_feather-image" transform="translate(52.943 42)">
+								<path id="Tracciato_1" class="st7" d="M3,0h21c1.7,0,3,1.3,3,3v21c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z"
+									/>
+								<path id="Tracciato_2" class="st7" d="M10.5,8.2c0,1.2-1,2.2-2.2,2.2S6,9.5,6,8.2S7,6,8.2,6S10.5,7,10.5,8.2z"/>
+								<path id="Tracciato_3" class="st7" d="M27,18l-7.5-7.5L3,27"/>
+							</g>
+						</g>
+						<path id="Text" class="st8" d="M1640.5,374h47c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-47c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,376,1638,374,1640.5,374z"/>
+						<path id="Title" class="st9" d="M1640.5,358h97c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-97c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,360,1638,358,1640.5,358z"/>
+					</g>
+					<g id="Card_Desktop-3" transform="translate(-1179 -338)">
+						<path id="Card-2" class="st6" d="M1497,338h259c7.2,0,13,5.8,13,13v85c0,7.2-5.8,13-13,13h-259c-7.2,0-13-5.8-13-13v-85
+							C1484,343.8,1489.8,338,1497,338z"/>
+						<g id="Image-3" transform="translate(1484 338)">
+							<path id="Image-4" class="st6" d="M14,0h119l0,0v111l0,0H14c-7.7,0-14-6.3-14-14V14C0,6.3,6.3,0,14,0z"/>
+							<g id="Icon_feather-image-2" transform="translate(52.943 42)">
+								<path id="Tracciato_1-2" class="st7" d="M3,0h21c1.7,0,3,1.3,3,3v21c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z
+									"/>
+								<path id="Tracciato_2-2" class="st7" d="M10.5,8.2c0,1.2-1,2.2-2.2,2.2S6,9.5,6,8.2S7,6,8.2,6S10.5,7,10.5,8.2z"/>
+								<path id="Tracciato_3-2" class="st7" d="M27,18l-7.5-7.5L3,27"/>
+							</g>
+						</g>
+						<path id="Text-2" class="st8" d="M1640.5,374h47c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-47c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,376,1638,374,1640.5,374z"/>
+						<path id="Title-2" class="st9" d="M1640.5,358h97c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-97c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,360,1638,358,1640.5,358z"/>
+					</g>
+					<g id="Card_Desktop-4" transform="translate(-1484 -207)">
+						<path id="Card-3" class="st6" d="M1497,338h259c7.2,0,13,5.8,13,13v85c0,7.2-5.8,13-13,13h-259c-7.2,0-13-5.8-13-13v-85
+							C1484,343.8,1489.8,338,1497,338z"/>
+						<g id="Image-5" transform="translate(1484 338)">
+							<path id="Image-6" class="st6" d="M14,0h119l0,0v111l0,0H14c-7.7,0-14-6.3-14-14V14C0,6.3,6.3,0,14,0z"/>
+							<g id="Icon_feather-image-3" transform="translate(52.943 42)">
+								<path id="Tracciato_1-3" class="st7" d="M3,0h21c1.7,0,3,1.3,3,3v21c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z
+									"/>
+								<path id="Tracciato_2-3" class="st7" d="M10.5,8.2c0,1.2-1,2.2-2.2,2.2S6,9.5,6,8.2S7,6,8.2,6S10.5,7,10.5,8.2z"/>
+								<path id="Tracciato_3-3" class="st7" d="M27,18l-7.5-7.5L3,27"/>
+							</g>
+						</g>
+						<path id="Text-3" class="st8" d="M1640.5,374h47c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-47c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,376,1638,374,1640.5,374z"/>
+						<path id="Title-3" class="st9" d="M1640.5,358h97c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-97c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,360,1638,358,1640.5,358z"/>
+					</g>
+					<g id="Card_Desktop-5" transform="translate(-1179 -207)">
+						<path id="Card-4" class="st6" d="M1497,338h259c7.2,0,13,5.8,13,13v85c0,7.2-5.8,13-13,13h-259c-7.2,0-13-5.8-13-13v-85
+							C1484,343.8,1489.8,338,1497,338z"/>
+						<g id="Image-7" transform="translate(1484 338)">
+							<path id="Image-8" class="st6" d="M14,0h119l0,0v111l0,0H14c-7.7,0-14-6.3-14-14V14C0,6.3,6.3,0,14,0z"/>
+							<g id="Icon_feather-image-4" transform="translate(52.943 42)">
+								<path id="Tracciato_1-4" class="st7" d="M3,0h21c1.7,0,3,1.3,3,3v21c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z
+									"/>
+								<path id="Tracciato_2-4" class="st7" d="M10.5,8.2c0,1.2-1,2.2-2.2,2.2S6,9.5,6,8.2S7,6,8.2,6S10.5,7,10.5,8.2z"/>
+								<path id="Tracciato_3-4" class="st7" d="M27,18l-7.5-7.5L3,27"/>
+							</g>
+						</g>
+						<path id="Text-4" class="st8" d="M1640.5,374h47c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-47c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,376,1638,374,1640.5,374z"/>
+						<path id="Title-4" class="st9" d="M1640.5,358h97c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-97c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,360,1638,358,1640.5,358z"/>
+					</g>
+					<g id="Card_Desktop-6" transform="translate(-1484 -76)">
+						<path id="Card-5" class="st6" d="M1497,338h259c7.2,0,13,5.8,13,13v85c0,7.2-5.8,13-13,13h-259c-7.2,0-13-5.8-13-13v-85
+							C1484,343.8,1489.8,338,1497,338z"/>
+						<g id="Image-9" transform="translate(1484 338)">
+							<path id="Image-10" class="st6" d="M14,0h119l0,0v111l0,0H14c-7.7,0-14-6.3-14-14V14C0,6.3,6.3,0,14,0z"/>
+							<g id="Icon_feather-image-5" transform="translate(52.943 42)">
+								<path id="Tracciato_1-5" class="st7" d="M3,0h21c1.7,0,3,1.3,3,3v21c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z
+									"/>
+								<path id="Tracciato_2-5" class="st7" d="M10.5,8.2c0,1.2-1,2.2-2.2,2.2S6,9.5,6,8.2S7,6,8.2,6S10.5,7,10.5,8.2z"/>
+								<path id="Tracciato_3-5" class="st7" d="M27,18l-7.5-7.5L3,27"/>
+							</g>
+						</g>
+						<path id="Text-5" class="st8" d="M1640.5,374h47c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-47c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,376,1638,374,1640.5,374z"/>
+						<path id="Title-5" class="st9" d="M1640.5,358h97c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-97c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,360,1638,358,1640.5,358z"/>
+					</g>
+					<g id="Card_Desktop-7" transform="translate(-1179 -76)">
+						<path id="Card-6" class="st6" d="M1497,338h259c7.2,0,13,5.8,13,13v85c0,7.2-5.8,13-13,13h-259c-7.2,0-13-5.8-13-13v-85
+							C1484,343.8,1489.8,338,1497,338z"/>
+						<g id="Image-11" transform="translate(1484 338)">
+							<path id="Image-12" class="st6" d="M14,0h119l0,0v111l0,0H14c-7.7,0-14-6.3-14-14V14C0,6.3,6.3,0,14,0z"/>
+							<g id="Icon_feather-image-6" transform="translate(52.943 42)">
+								<path id="Tracciato_1-6" class="st7" d="M3,0h21c1.7,0,3,1.3,3,3v21c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z
+									"/>
+								<path id="Tracciato_2-6" class="st7" d="M10.5,8.2c0,1.2-1,2.2-2.2,2.2S6,9.5,6,8.2S7,6,8.2,6S10.5,7,10.5,8.2z"/>
+								<path id="Tracciato_3-6" class="st7" d="M27,18l-7.5-7.5L3,27"/>
+							</g>
+						</g>
+						<path id="Text-6" class="st8" d="M1640.5,374h47c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-47c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,376,1638,374,1640.5,374z"/>
+						<path id="Title-6" class="st9" d="M1640.5,358h97c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-97c-2.5,0-4.5-2-4.5-4.5l0,0
+							C1636,360,1638,358,1640.5,358z"/>
+					</g>
+				</g>
+			</g>
+			<g id="Componente_1_2" transform="translate(1375 283)">
+				<g>
+					<defs>
+						<rect id="SVGID_5_" width="24" height="18"/>
+					</defs>
+					<clipPath id="SVGID_6_">
+						<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+					</clipPath>
+					<g id="Griglia_di_ripetizione_1-2" class="st10">
+						<g transform="translate(-1260 -454)">
+							<path id="Rettangolo_21-4" class="st1" d="M1261,454h22c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-22c-0.6,0-1-0.4-1-1l0,0
+								C1260,454.4,1260.4,454,1261,454z"/>
+						</g>
+						<g transform="translate(-1260 -446)">
+							<path id="Rettangolo_21-5" class="st1" d="M1261,454h22c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-22c-0.6,0-1-0.4-1-1l0,0
+								C1260,454.4,1260.4,454,1261,454z"/>
+						</g>
+						<g transform="translate(-1260 -438)">
+							<path id="Rettangolo_21-6" class="st1" d="M1261,454h22c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-22c-0.6,0-1-0.4-1-1l0,0
+								C1260,454.4,1260.4,454,1261,454z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="wireframe">
+			<g id="Raggruppa_3" transform="translate(-233.482 -113.5)" class="st11">
+				<g id="Rettangolo_22" transform="translate(1247.482 490.5)">
+					<path class="st12" d="M13,0h137c7.2,0,13,5.8,13,13v174c0,7.2-5.8,13-13,13H13c-7.2,0-13-5.8-13-13V13C0,5.8,5.8,0,13,0z"/>
+					<path class="st13" d="M13,1h137c6.6,0,12,5.4,12,12v174c0,6.6-5.4,12-12,12H13c-6.6,0-12-5.4-12-12V13C1,6.4,6.4,1,13,1z"/>
+				</g>
+				<g id="Rettangolo_23" transform="translate(1247.482 490.5)">
+					<path class="st12" d="M9,0h145c5,0,9,4,9,9v111l0,0H0l0,0V9C0,4,4,0,9,0z"/>
+					<path class="st13" d="M9,1h145c4.4,0,8,3.6,8,8v109c0,0.6-0.4,1-1,1H2c-0.6,0-1-0.4-1-1V9C1,4.6,4.6,1,9,1z"/>
+				</g>
+				<g id="Icon_feather-image-7" transform="translate(1304.609 526.036)">
+					<path id="Tracciato_1-7" class="st14" d="M5.4,0h37.8c3,0,5.4,2.4,5.4,5.4v37.8c0,3-2.4,5.4-5.4,5.4H5.4c-3,0-5.4-2.4-5.4-5.4
+						V5.4C0,2.4,2.4,0,5.4,0z"/>
+					<path id="Tracciato_2-7" class="st14" d="M18.9,14.9c0,2.2-1.8,4.1-4.1,4.1s-4.1-1.8-4.1-4.1s1.8-4.1,4.1-4.1l0,0
+						C17.1,10.8,18.9,12.6,18.9,14.9z"/>
+					<path id="Tracciato_3-7" class="st14" d="M48.6,32.4L35.1,18.9L5.4,48.6"/>
+				</g>
+				<g id="Rettangolo_24" transform="translate(1257.482 621.5)">
+					<path class="st12" d="M5,0h118c2.8,0,5,2.2,5,5v6c0,2.8-2.2,5-5,5H5c-2.8,0-5-2.2-5-5V5C0,2.2,2.2,0,5,0z"/>
+					<path class="st13" d="M5,1h118c2.2,0,4,1.8,4,4v6c0,2.2-1.8,4-4,4H5c-2.2,0-4-1.8-4-4V5C1,2.8,2.8,1,5,1z"/>
+				</g>
+				<g id="Rettangolo_25" transform="translate(1257.482 650.5)">
+					<path class="st12" d="M5,0h86c2.8,0,5,2.2,5,5v6c0,2.8-2.2,5-5,5H5c-2.8,0-5-2.2-5-5V5C0,2.2,2.2,0,5,0z"/>
+					<path class="st13" d="M5,1h86c2.2,0,4,1.8,4,4v6c0,2.2-1.8,4-4,4H5c-2.2,0-4-1.8-4-4V5C1,2.8,2.8,1,5,1z"/>
+				</g>
+			</g>
+			<path id="Tracciato_4" class="st15" d="M1173.7,381.2l160.8,111.5"/>
+			<path id="Tracciato_6" class="st15" d="M1168.6,575.6l526.9-139.8"/>
+			<path id="Tracciato_7" class="st15" d="M1024,377.6l398.5-46.8"/>
+			<path id="Tracciato_5" class="st15" d="M1021.3,576l229.7,23.6"/>
+		</g>
+		<g id="phone">
+			<g id="Rettangolo_20" transform="translate(1225 426)">
+				<path class="st3" d="M36,0h174c19.9,0,36,16.1,36,36v388c0,19.9-16.1,36-36,36H36c-19.9,0-36-16.1-36-36V36C0,16.1,16.1,0,36,0z
+					"/>
+				<path class="st4" d="M36,0.5h174c19.6,0,35.5,15.9,35.5,35.5v388c0,19.6-15.9,35.5-35.5,35.5H36c-19.6,0-35.5-15.9-35.5-35.5V36
+					C0.5,16.4,16.4,0.5,36,0.5z"/>
+			</g>
+			<g>
+				<defs>
+					<rect id="SVGID_7_" x="1247" y="752" width="202" height="111"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+				</clipPath>
+				<g id="post_card" transform="translate(1247 752)" class="st16">
+					<g id="post_card-2" transform="translate(-1247 -752)">
+						<path id="Rettangolo_22-2" class="st17" d="M1260,752h65c7.2,0,13,5.8,13,13v85c0,7.2-5.8,13-13,13h-65c-7.2,0-13-5.8-13-13
+							v-85C1247,757.8,1252.8,752,1260,752z"/>
+						<path id="Rettangolo_23-2" class="st6" d="M1260,752h65c7.2,0,13,5.8,13,13v54l0,0h-91l0,0v-54
+							C1247,757.8,1252.8,752,1260,752z"/>
+						<g id="image_ico" transform="translate(1274.473 767.5)">
+							<path id="Tracciato_1-8" class="st18" d="M7.5,4.5h21c1.7,0,3,1.3,3,3v21c0,1.7-1.3,3-3,3h-21c-1.7,0-3-1.3-3-3v-21
+								C4.5,5.8,5.8,4.5,7.5,4.5z"/>
+							<path id="Tracciato_2-8" class="st18" d="M15,12.8c0,1.2-1,2.2-2.2,2.2s-2.2-1-2.2-2.2s1-2.2,2.2-2.2S15,11.5,15,12.8z"/>
+							<path id="Tracciato_3-8" class="st18" d="M31.5,22.5L24,15L7.5,31.5"/>
+						</g>
+						<path id="Rettangolo_24-2" class="st19" d="M1257.5,825h62c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-62
+							c-2.5,0-4.5-2-4.5-4.5l0,0C1253,827,1255,825,1257.5,825z"/>
+						<path id="Rettangolo_25-2" class="st8" d="M1257.5,841h44c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-44
+							c-2.5,0-4.5-2-4.5-4.5l0,0C1253,843,1255,841,1257.5,841z"/>
+					</g>
+					<g id="post_card-3" transform="translate(-1136 -752)">
+						<path id="Rettangolo_22-3" class="st17" d="M1260,752h65c7.2,0,13,5.8,13,13v85c0,7.2-5.8,13-13,13h-65c-7.2,0-13-5.8-13-13
+							v-85C1247,757.8,1252.8,752,1260,752z"/>
+						<path id="Rettangolo_23-3" class="st6" d="M1260,752h65c7.2,0,13,5.8,13,13v54l0,0h-91l0,0v-54
+							C1247,757.8,1252.8,752,1260,752z"/>
+						<g id="image_ico-2" transform="translate(1274.473 767.5)">
+							<path id="Tracciato_1-9" class="st18" d="M7.5,4.5h21c1.7,0,3,1.3,3,3v21c0,1.7-1.3,3-3,3h-21c-1.7,0-3-1.3-3-3v-21
+								C4.5,5.8,5.8,4.5,7.5,4.5z"/>
+							<path id="Tracciato_2-9" class="st18" d="M15,12.8c0,1.2-1,2.2-2.2,2.2s-2.2-1-2.2-2.2s1-2.2,2.2-2.2S15,11.5,15,12.8z"/>
+							<path id="Tracciato_3-9" class="st18" d="M31.5,22.5L24,15L7.5,31.5"/>
+						</g>
+						<path id="Rettangolo_24-3" class="st19" d="M1257.5,825h62c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-62
+							c-2.5,0-4.5-2-4.5-4.5l0,0C1253,827,1255,825,1257.5,825z"/>
+						<path id="Rettangolo_25-3" class="st8" d="M1257.5,841h44c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-44
+							c-2.5,0-4.5-2-4.5-4.5l0,0C1253,843,1255,841,1257.5,841z"/>
+					</g>
+				</g>
+			</g>
+			<g class="st20">
+				<path class="st19" d="M1401.4,454h5.6l2,9.8h0.1l2-9.8h5.4l-4.5,14h-6.1L1401.4,454z"/>
+				<path class="st19" d="M1417.4,454h5.2v2.6h0.1c0.7-1.9,2.1-2.9,4.2-2.9c3.1,0,4.8,2,4.8,5.3v9h-5.2v-7.9c0-1.4-0.7-2.3-2-2.3
+					c-1.2,0-2,1-2,2.3v7.9h-5.2V454z"/>
+				<path class="st19" d="M1434.9,463.8v-6h-1.9V454h1.9v-3.1h5.2v3.1h2.5v3.8h-2.5v5.2c0,1.1,0.5,1.6,1.6,1.6c0.4,0,0.6,0,0.9-0.1
+					v3.6c-0.6,0.1-1.3,0.2-2.4,0.2C1436.5,468.3,1434.9,467.1,1434.9,463.8z"/>
+				<path class="st19" d="M1444.1,465.6c0-1.5,1.2-2.7,2.7-2.7s2.7,1.2,2.7,2.7s-1.2,2.7-2.7,2.7S1444.1,467.1,1444.1,465.6z"/>
+			</g>
+			<g id="hero">
+				<path id="Tracciato_8" class="st21" d="M1260,492h176c7.2,0,13,5.8,13,13v212c0,7.2-5.8,13-13,13l0,0h-176c-7.2,0-13-5.8-13-13
+					l0,0V505C1247,497.8,1252.8,492,1260,492z"/>
+				<path id="Rettangolo_55" class="st22" d="M1270.5,620h139c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-139
+					c-2.5,0-4.5-2-4.5-4.5l0,0C1266,622,1268,620,1270.5,620z"/>
+				<path id="Rettangolo_60" class="st23" d="M1270.5,594h139c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-139
+					c-2.5,0-4.5-2-4.5-4.5l0,0C1266,596,1268,594,1270.5,594z"/>
+				<path id="Rettangolo_56" class="st22" d="M1270.5,638h88c2.5,0,4.5,2,4.5,4.5l0,0c0,2.5-2,4.5-4.5,4.5h-88c-2.5,0-4.5-2-4.5-4.5
+					l0,0C1266,640,1268,638,1270.5,638z"/>
+				<path id="Rettangolo_59" class="st19" d="M1275,686h53c5,0,9,4,9,9l0,0c0,5-4,9-9,9h-53c-5,0-9-4-9-9l0,0
+					C1266,690,1270,686,1275,686z"/>
+			</g>
+		</g>
+		<g id="floating_code">
+			<g id="floating_code-2" transform="translate(-55 88)">
+				<path id="Rettangolo_28" class="st24" d="M937.5,607h46c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-46c-3,0-5.5-2.5-5.5-5.5
+					l0,0C932,609.5,934.5,607,937.5,607z"/>
+				<path id="Rettangolo_32" class="st24" d="M940,667h47c2.8,0,5,2.2,5,5l0,0c0,2.8-2.2,5-5,5h-47c-2.8,0-5-2.2-5-5l0,0
+					C935,669.2,937.2,667,940,667z"/>
+				<path id="Rettangolo_29" class="st25" d="M954.5,622h138c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-138
+					c-3,0-5.5-2.5-5.5-5.5l0,0C949,624.5,951.5,622,954.5,622z"/>
+				<path id="Rettangolo_33" class="st25" d="M957.5,681h115c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-115
+					c-3,0-5.5-2.5-5.5-5.5l0,0C952,683.5,954.5,681,957.5,681z"/>
+				<path id="Rettangolo_30" class="st25" d="M954.5,637h73c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-73c-3,0-5.5-2.5-5.5-5.5
+					l0,0C949,639.5,951.5,637,954.5,637z"/>
+				<path id="Rettangolo_34" class="st25" d="M957.5,696h47c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-47c-3,0-5.5-2.5-5.5-5.5
+					l0,0C952,698.5,954.5,696,957.5,696z"/>
+				<path id="Rettangolo_31" class="st24" d="M940.5,652h43c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-43c-3,0-5.5-2.5-5.5-5.5
+					l0,0C935,654.5,937.5,652,940.5,652z"/>
+				<path id="Rettangolo_35" class="st24" d="M943.5,711h43c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-43c-3,0-5.5-2.5-5.5-5.5
+					l0,0C938,713.5,940.5,711,943.5,711z"/>
+			</g>
+			<g id="Raggruppa_5" transform="translate(699 228)">
+				<path id="Rettangolo_28-2" class="st24" d="M937.5,607h46c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-46
+					c-3,0-5.5-2.5-5.5-5.5l0,0C932,609.5,934.5,607,937.5,607z"/>
+				<path id="Rettangolo_32-2" class="st24" d="M940,667h47c2.8,0,5,2.2,5,5l0,0c0,2.8-2.2,5-5,5h-47c-2.8,0-5-2.2-5-5l0,0
+					C935,669.2,937.2,667,940,667z"/>
+				<path id="Rettangolo_36" class="st24" d="M956,711h47c2.8,0,5,2.2,5,5l0,0c0,2.8-2.2,5-5,5h-47c-2.8,0-5-2.2-5-5l0,0
+					C951,713.2,953.2,711,956,711z"/>
+				<path id="Rettangolo_29-2" class="st25" d="M954.5,622h138c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-138
+					c-3,0-5.5-2.5-5.5-5.5l0,0C949,624.5,951.5,622,954.5,622z"/>
+				<path id="Rettangolo_33-2" class="st25" d="M957.5,681h115c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-115
+					c-3,0-5.5-2.5-5.5-5.5l0,0C952,683.5,954.5,681,957.5,681z"/>
+				<path id="Rettangolo_37" class="st25" d="M973.5,725h115c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-115
+					c-3,0-5.5-2.5-5.5-5.5l0,0C968,727.5,970.5,725,973.5,725z"/>
+				<path id="Rettangolo_30-2" class="st25" d="M954.5,637h73c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-73
+					c-3,0-5.5-2.5-5.5-5.5l0,0C949,639.5,951.5,637,954.5,637z"/>
+				<path id="Rettangolo_34-2" class="st25" d="M957.5,696h47c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-47
+					c-3,0-5.5-2.5-5.5-5.5l0,0C952,698.5,954.5,696,957.5,696z"/>
+				<path id="Rettangolo_38" class="st25" d="M973.5,740h47c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-47c-3,0-5.5-2.5-5.5-5.5
+					l0,0C968,742.5,970.5,740,973.5,740z"/>
+				<path id="Rettangolo_31-2" class="st24" d="M940.5,652h43c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-43
+					c-3,0-5.5-2.5-5.5-5.5l0,0C935,654.5,937.5,652,940.5,652z"/>
+				<path id="Rettangolo_35-2" class="st24" d="M942.5,770h43c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-43
+					c-3,0-5.5-2.5-5.5-5.5l0,0C937,772.5,939.5,770,942.5,770z"/>
+				<path id="Rettangolo_39" class="st24" d="M959.5,755h43c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-43c-3,0-5.5-2.5-5.5-5.5
+					l0,0C954,757.5,956.5,755,959.5,755z"/>
+			</g>
+			<g id="Raggruppa_6" transform="translate(406 -570)">
+				<path id="Rettangolo_28-3" class="st24" d="M937.5,607h29c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-29
+					c-3,0-5.5-2.5-5.5-5.5l0,0C932,609.5,934.5,607,937.5,607z"/>
+				<path id="Rettangolo_29-3" class="st25" d="M954.5,622h107c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-107
+					c-3,0-5.5-2.5-5.5-5.5l0,0C949,624.5,951.5,622,954.5,622z"/>
+				<path id="Rettangolo_30-3" class="st25" d="M954.5,637h135c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-135
+					c-3,0-5.5-2.5-5.5-5.5l0,0C949,639.5,951.5,637,954.5,637z"/>
+				<path id="Rettangolo_31-3" class="st24" d="M940.5,652h27c3,0,5.5,2.5,5.5,5.5l0,0c0,3-2.5,5.5-5.5,5.5h-27
+					c-3,0-5.5-2.5-5.5-5.5l0,0C935,654.5,937.5,652,940.5,652z"/>
+			</g>
+		</g>
+	</g>
+	
+		<linearGradient id="fade_1_" gradientUnits="userSpaceOnUse" x1="1150.6208" y1="789.7685" x2="1149.6208" y2="789.7685" gradientTransform="matrix(720 0 0 -1080 -826524 853490)">
+		<stop  offset="0" style="stop-color:#290C2D"/>
+		<stop  offset="1" style="stop-color:#290C2D;stop-opacity:0"/>
+	</linearGradient>
+	<rect id="fade" x="1203" class="st26" width="720" height="1080"/>
+</g>
 </svg>

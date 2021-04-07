@@ -1,5 +1,6 @@
 $colors: (
     primary: #290C2D,
+    primarylight: #502F55,
     accent: #FFB23A,
 );
 
@@ -31,22 +32,12 @@ $pLsize: 24px;
 // bold sf
 @font-face {
     font-family: "SF Pro Display Bold";
-    src: url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.eot");
-    src: url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.eot?#iefix") format("embedded-opentype"),
-    url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.woff2") format("woff2"),
-    url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.woff") format("woff"),
-    url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.ttf") format("truetype"),
-    url("//db.onlinewebfonts.com/t/7a6f2630cebd5e0ea712848621f9502e.svg#SF Pro Display") format("svg");
+    src: url("../media/SF-Pro-Display-Bold.otf");
 }
 
 @font-face {
     font-family: "SF Pro Display";
-    src: url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.eot"); 
-    src: url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.eot?#iefix") format("embedded-opentype"), 
-    url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.woff2") format("woff2"), 
-    url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.woff") format("woff"), 
-    url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.ttf") format("truetype"), 
-    url("//db.onlinewebfonts.com/t/3cff9206b4c8d578245ef1aaeeaf9e84.svg#SF Pro Display") format("svg"); 
+    src: url("../media/SF-Pro-Display-Regular.otf"); 
 }
 
 body {
